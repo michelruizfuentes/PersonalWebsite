@@ -114,8 +114,8 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+    name = "Resume/CV"
+    title = "Resume/CV"
     url = "/talk/"
     weight = 4
     
@@ -131,7 +131,8 @@ enableEmoji = true
     url = "/contact/"
     weight = 2
 
-# see https://gohugo.io/about/hugo-and-gdpr/    
+# see for privacy---- https://gohugo.io/about/hugo-and-gdpr/  
+#####HOW CANI TWEAK THESE FOR PRIVACY
 [privacy]
   [privacy.disqus]
     disable = false

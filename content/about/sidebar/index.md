@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
-avatar_shape: rounded # circle, square, rounded
+author: "Michel Ruiz-Fuentes"
+role: "Jack Kent Cooke Scholar at Smith College"
+avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
+audio_link_label: "How to say my name" 
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: NSF INSPIRE U2 Researcher 
+  url: https://sites.spelman.edu/inspireu2-reu/inspire-u2-scholars/ 
+- name: Youth Over Guns Fellow
+  url: https://www.youthovergunsny.org/activistincubator.html
+- name: Call for Kindness Fellow
+  url: https://www.rileysway.org/2021-call-for-kindness-fellows/
 ---
 
 ** index doesn't contain a body, just front matter above.

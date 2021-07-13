@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am a Salvadoreña Americana and Washington, D.C native. My cultural roots, upbringing, and community values have been crucial in shaping my activism and strengthening my ambition. I am fascinated about development, research and social impact. I explore these passions in my Statistical and Data Science and Government studies at Smith College. I aspire to lead revolutionary initiatives, rooted in the common good, to tackle today's most pressing social and technical challenges and inequities. 
+I am a rising sophomore attending Smith College in Northampton, MA. I am fascinated about development, research, equity and social impact. I am pursuing a Statistical and Data Science major and Government minor. I aspire to lead revolutionary initiatives, rooted in the common good, to tackle today's most pressing social and technical challenges and inequities. 
  

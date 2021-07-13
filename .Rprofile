@@ -23,4 +23,4 @@ rmarkdown::pandoc_version()
 library(blogdown)
 hugo_version()
 
-git cofig --global user.email "mruiizfuentes@gmail.com"
+

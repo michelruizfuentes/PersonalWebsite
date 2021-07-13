@@ -6,7 +6,7 @@ avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
 audio_link_label: "How to say my name" 
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Experiences" # bookmarks, elsewhere, etc.
 link_list:
 - name: NSF INSPIRE U2 Researcher 
   url: https://sites.spelman.edu/inspireu2-reu/inspire-u2-scholars/ 

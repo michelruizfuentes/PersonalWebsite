@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-My name is Michel (pronounced Mi-SHEL), and I'm from Washington, D.C. I am a rising sophomore at Smith College, located in Northampton, Massachusetts. I am proud of my activism, community organizing, and research that ranges from global affairs to physiology and neurobiology to statistics and data science. I aspire to lead revolutionary initiatives rooted in the common good to tackle today's most pressing social and technical challenges. 
+My name is Michel (pronounced Mi-SHEL), and I'm Salvadoreña from Washington, D.C. I am a rising sophomore at Smith College with the tentative studies of governance and statistical and data science. I am passionate about activism, community organizing, and research. I’ve conducted research in a plethora of fields from international conflict and neurobiology to statistics and data analytics. I aspire to lead revolutionary initiatives rooted in the common good to tackle today's most pressing social and technical challenges. 
  
  
 

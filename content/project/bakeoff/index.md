@@ -1,7 +1,7 @@
 ---
-title: "Bakeoff"
-subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
+title: "Regression Analysis of Market Structure and Profit Rate"
+subtitle: "Independent Research Conducted as an Intern with INSPIRE U2"
+excerpt: "Data analytics on market structure and the economics of advertising is significant for many reasons. First, businesses are crucial to society's function, so we must make an effort to comprehend the variables that contribute to their expansion. Second, this research can empower and serve as guidance for historically underrepresented entrepreneurs like people of color and immigrants entering the market and aspire to grow their companies."
 date: 2019-07-01
 author: "Eric Anderson"
 draft: false

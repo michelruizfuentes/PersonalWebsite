@@ -5,25 +5,25 @@ number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true 
 intro: |
-  # Activism
+  ### Activism
   
   **Youth Over Guns**: Anger to Advocacy Fellow 
   
   November 2020 - June 2021
   
-  # Mentorship
+  ### Mentorship
   
   **Women's Action for New Directions**: En Voz Alta Mentee
   
   January 2021 - Present
   
-  # Community-Service
+  ### Community-Service
   
   **Riley's Way**: Call for Kindness Fellow
   
   May 2021 - Present
   
-  # Research
+  ### Research
   
   **National Science Foundation**: INSPIRE U2 Statistics Researcher 
   

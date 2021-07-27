@@ -1,6 +1,6 @@
 ---
 title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
+description: "Give my projects a place to live online."
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true

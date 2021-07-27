@@ -11,6 +11,12 @@ intro: |
   
   November 2020 - June 2021
   
+  *Mentorship*
+  
+  **Women's Action for New Directions**: En Voz Alta Mentee
+  
+  January 2021 - Present
+  
   *Community-Service*
   
   **Riley's Way**: Call for Kindness Fellowship 

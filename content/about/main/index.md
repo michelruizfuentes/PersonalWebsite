@@ -1,17 +1,23 @@
 ---
 ## Configure page content in wide column
-title: "What I'm up to lately" # leave blank to exclude
+title: "What I've been up to lately" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true 
 intro: |
+  *Activism*
+  
   **Youth Over Guns**: Anger to Advocacy Fellowship 
   
   November 2020 - June 2021
   
+  *Community-Servce*
+  
   **Riley's Way**: Call for Kindness Fellowship 
   
   May 2021 - Present
+  
+  *Research*
   
   **National Science Foundation**: INSPIRE U2 Statistics REU 
   

@@ -5,7 +5,9 @@ number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true 
 intro: |
-  Cultures clash as I adjust to the challenges of life in Paris while juggling my career, new friendships, and love life. Here is how to catch up with me lately!
+  Youth Over Guns: Anger to Advocacy Fellowship (11/2020 - 06/2021)\
+  National Science Foundation: INSPIRE U2 Statistics REU (06/2021 - 07/2021)
+  
 show_outro: true
 outro: |
   <i class="fas fa-mug-hot pr2"></i>If there's a specific position you are interested in learning more about, feel free to email me to learn more information!

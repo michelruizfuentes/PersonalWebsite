@@ -1,9 +1,9 @@
 ---
-title: "Tachyons for Style"
-subtitle: "A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that always moves faster than light."
-excerpt: "Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It’s a design system that provides very small (which means fast) CSS modules that you can use in your HTML."
-date: 2019-07-03
-author: "Eric Anderson"
+title: "Parable of the Pistol Town Hall Series"
+subtitle: "Anger to Advocacy fellwos organized a town hall series to practice the organizing and leadership skills they developed in the training portion of the fellowship."
+excerpt: "Youth Over Gun presents our first National Town Hall on Gun Violence Awareness Day for a discussion highlighting solutions to our nation’s gun violence epidemic."
+date: 2021-06-04
+author: "Youth Over Guns"
 draft: false
 tags:
   - hugo-site
@@ -23,24 +23,11 @@ layout: single
 
 ---
 
-### Because Speed
+### Regional Town Hall
 
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
+To commemorate Gun Violence Awareness Day, we invite you to #WearOrange and join NYAGV Ed Fund and Youth Over Guns as our Anger to Advocacy fellows present a Virtual Town Hall.
 
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
-
-### BYOTachyons
+### National Town Hall
 
 One of the best features of Tachyons is the exhaustive [component
 library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)

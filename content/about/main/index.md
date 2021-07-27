@@ -6,12 +6,15 @@ number_categories: 3 # set to zero to exclude
 show_intro: true 
 intro: |
   **Youth Over Guns**: Anger to Advocacy Fellowship 
+  
   November 2020 - June 2021
   
   **Riley's Way**: Call for Kindness Fellowship 
+  
   May 2021 - Present
   
   **National Science Foundation**: INSPIRE U2 Statistics REU 
+  
   June 2021 - Present
   
 show_outro: true

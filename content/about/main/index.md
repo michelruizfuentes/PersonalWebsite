@@ -11,7 +11,7 @@ intro: |
   
   November 2020 - June 2021
   
-  *Community-Servce*
+  *Community-Service*
   
   **Riley's Way**: Call for Kindness Fellowship 
   

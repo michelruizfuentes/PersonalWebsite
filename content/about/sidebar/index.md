@@ -4,7 +4,7 @@ author: "Michel Ruiz-Fuentes"
 role: "Jack Kent Cooke Scholar at Smith College"
 avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
+show_audio_link: false
 audio_link_label: "How to say my name" 
 link_list_label: "Experiences" # bookmarks, elsewhere, etc.
 link_list:

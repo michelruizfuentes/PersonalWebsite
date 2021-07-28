@@ -1,3 +1,5 @@
+install_hugo
+
 ---
 title: "Michel Ruiz-Fuentes"
 subtitle: "Jack Kent Cooke Scholar at Smith College"

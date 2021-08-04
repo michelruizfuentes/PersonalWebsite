@@ -1,6 +1,6 @@
 ---
 title: "Regression Analysis"
-subtitle: "Independent Research Conducted as an Intern with INSPIRE U2"
+subtitle: "Research with INSPIRE U2 REU"
 excerpt: "Data analytics on market structure and the economics of advertising is significant for many reasons. First, businesses are crucial to society's function, so we must make an effort to comprehend the variables that contribute to their expansion. Second, this research can empower and serve as guidance for historically underrepresented entrepreneurs like people of color and immigrants entering the market and aspire to grow their companies."
 date: 2021-07-29
 author: "Michel Ruiz-Fuentes"

@@ -7,7 +7,11 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-My name is Michel (pronounced Mi-SHEL), and I'm Salvadoreña from Washington, D.C. I am a rising sophomore at Smith College with the tentative studies of governance and statistical and data science. I am passionate about activism, community organizing, and research. I’ve conducted research in a plethora of fields from international conflict and neurobiology to statistics and data analytics. I aspire to lead revolutionary initiatives rooted in the common good to tackle today's most pressing social and technical challenges. 
+Hello! My name is Michel Ruiz-Fuentes, and I'm Salvadoreña from Washington, D.C. I am a rising sophomore at Smith College studying Government and Statistical and Data Science. 
+
+I I have conducted research in a plethora of fields from international conflict and neurobiology to statistics and data analytics. 
+ 
+I am passionate about international developmeny, equity and using technology for social good. I am fascinated by the intersection of civic engagement and technology. I would love to connect, feel free to reach out to me using the contact questionnaire or via Linkedin!
  
  
 

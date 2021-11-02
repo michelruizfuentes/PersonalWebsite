@@ -1,9 +1,9 @@
 ---
-title: "Lorem Simpson"
+title: "Reflecting on INSPIREU2"
 subtitle: ""
 excerpt: "An .Rmarkdown post"
 date: 2021-05-26
-author: "Alison Hill"
+author: "Michel Ruiz-Fuentes"
 draft: false
 images:
 series:
@@ -28,49 +28,17 @@ ggplot(data = penguins, aes(x = flipper_length_mm)) +
 ```
 
 
+My name is Michel Ruiz-Fuentes, and I’m a sophomore at Smith College. I am passionate about advocacy and innovation, and INSPIRE U2 was a memorable opportunity that has allowed me to see the intersection of my passions with Statistics and Data Science.
 
+During my first year in college, I explored a plethora of disciplines, intending to find a field that I enjoyed and allowed me to lead meaningful change. Taking a statistics course in my first semester titled Communicating with Data exposed me to the crucial role that statistics and data science play in our everyday lives. In particular, it showed me how statistics helps us identify, analyze, and articulate information that is crucial for decision-making processes. In class, we conducted projects to combat barriers in statistics like data accessibility and created visualizations that are understandable for any individual regardless of their background in statistics. I was particularly fascinated in learning what statistics was and how to use it ethically to make well-versed decisions. My professor, Sara Stoudt, shared the INSPIRE U2 research opportunity with our class and encouraged historically underrepresented students to apply!
 
-## Fame was like a drug. But what was even more like a drug were the drugs.
+I am fortunately now able to reflect on being a part of a robust cohort and research experience. I worked with Dr. Tharu, Assistant Professor of Mathematics at Spelman, and Mr. Jeff Allen, RStudio Mentor, to analyze a market research question and precisely measure the strength of the relationship between elements of market structure with the net income of large marketing-intensive firms. I sourced secondary data from the Industrial Book of Economics, performed multiple regression and Box-Cox transformations, and created data visualizations, such as scatterplots, to show my findings.
 
-Jesus must be spinning in his grave! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. Marge, it takes two to lie. One to lie and one to listen.
+Scatterplot showing relationship between S (average ad-to-sales ratio) and PT (net income + interest expense / total assets) of firm product markets, to showcase an example of student work
 
-Oh, I'm in no condition to drive. Wait a minute. I don't have to listen to myself. I'm drunk. And here I am using my own lungs like a sucker. __How is education supposed to make me feel smarter?__ *Besides, every time I learn something new, it pushes some old stuff out of my brain.* Remember when I took that home winemaking course, and I forgot how to drive?
+I enjoyed working with RStudio because it required critical thought, patience, and purpose. Every line of code has a meaning. It is a delicate and rewarding process to write your code and transform your raw data into a story with meaning. I hope to share my research findings — that marketing is a crucial aspect of increasing your company’s net income — with women of color or immigrant entrepreneurs to help their companies enter the market and be strong competitors in their industry.
 
-## What's the point of going out? We're just going to wind up back here anyway.
+I had never used R nor taken an introductory statistics course before INSPIRE U2, so it was both thrilling and overwhelming to read over our syllabus and see what was planned for our summer. However, I had immense support from my mentors in navigating difficult concepts and code. Therefore, I would encourage any student, despite their background in statistics or coding, to apply! Dr. Blankson and Dr. Tharu were excellent teachers and empowered me to search for answers and keep working hard. The Bootcamp led by Dr. Blankson and the homework practice I did with Dr. Tharu prepared me for the research component of our program. In addition to engaging in the Bootcamp and research, I worked on an individual project to create a personal website with Mr. Allen! I shared with him that I wanted to build my proficiency and explore other ways R can be used, so we brainstormed possible projects, and my favorite idea was to create a website and build a portfolio!
 
-Uh, no, they're saying "Boo-urns, Boo-urns." Donuts. Is there anything they can't do? Weaseling out of things is important to learn. It's what separates us from the animals…except the weasel. When I held that gun in my hand, I felt a surge of power…like God must feel when he's holding a gun.
-
-1. I like my beer cold, my TV loud and my homosexuals flaming.
-2. I don't like being outdoors, Smithers. For one thing, there's too many fat children.
-3. I can't go to juvie. They use guys like me as currency.
-
-### Your questions have become more redundant and annoying than the last three "Highlander" movies.
-
-Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. I prefer a vehicle that doesn't hurt Mother Earth. It's a go-cart, powered by my own sense of self-satisfaction.
-
-* You know, the one with all the well meaning rules that don't work out in real life, uh, Christianity.
-* Your questions have become more redundant and annoying than the last three "Highlander" movies.
-* D'oh.
-
-Beer. Now there's a temporary solution. I didn't think it was physically possible, but this both sucks *and* blows. …And the fluffy kitten played with that ball of string all through the night. On a lighter note, a Kwik-E-Mart clerk was brutally murdered last night.
-
-Fame was like a drug. But what was even more like a drug were the drugs. I can't go to juvie. They use guys like me as currency. Marge, you being a cop makes you the man! Which makes me the woman — and I have no interest in that, besides occasionally wearing the underwear, which as we discussed, is strictly a comfort thing.
-
-Stan Lee never left. I'm afraid his mind is no longer in mint condition. I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business.
-
-And now, in the spirit of the season: start shopping. And for every dollar of Krusty merchandise you buy, I will be nice to a sick kid. For legal purposes, sick kids may include hookers with a cold. I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business.
-
-Stan Lee never left. I'm afraid his mind is no longer in mint condition. I'm a Spalding Gray in a Rick Dees world. Get ready, skanks! It's time for the truth train! Brace yourselves gentlemen. According to the gas chromatograph, the secret ingredient is… Love!? Who's been screwing with this thing?
-
-D'oh. Son, a woman is like a beer. They smell good, they look good, you'd step over your own mother just to get one! But you can't stop at one. You wanna drink another woman! Marge, it takes two to lie. One to lie and one to listen.
-
-I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business. And now, in the spirit of the season: start shopping. And for every dollar of Krusty merchandise you buy, I will be nice to a sick kid. For legal purposes, sick kids may include hookers with a cold.
-
-Oh, I'm in no condition to drive. Wait a minute. I don't have to listen to myself. I'm drunk. And here I am using my own lungs like a sucker. I stand by my racial slur. Fat Tony is a cancer on this fair city! He is the cancer and I am the…uh…what cures cancer?
-
-Last night's "Itchy and Scratchy Show" was, without a doubt, the worst episode *ever.* Rest assured, I was on the Internet within minutes, registering my disgust throughout the world. Stan Lee never left. I'm afraid his mind is no longer in mint condition.
-
-I hope this has taught you kids a lesson: kids never learn. Brace yourselves gentlemen. According to the gas chromatograph, the secret ingredient is… Love!? Who's been screwing with this thing? Books are useless! I only ever read one book, "To Kill A Mockingbird," and it gave me absolutely no insight on how to kill mockingbirds! Sure it taught me not to judge a man by the color of his skin…but what good does *that* do me?
-
-Please do not offer my god a peanut. Bart, with $10,000 we'd be millionaires! We could buy all kinds of useful things like…love! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom.
+INSPIRE U2 challenged me to dream big, persist through obstacles, and explore uncertainty. I am grateful for this opportunity because through this experience, I pursued my interests and found a new passion!
 

@@ -5,6 +5,7 @@ number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true 
 intro: |
+
   ### Activism
   
   **Youth Over Guns**: Anger to Advocacy Fellow 
@@ -27,7 +28,7 @@ intro: |
   
   **National Science Foundation**: INSPIRE U2 Statistics Researcher 
   
-  June 2021 - Present
+  June 2021 - July 2021
   
 show_outro: true
 outro: |

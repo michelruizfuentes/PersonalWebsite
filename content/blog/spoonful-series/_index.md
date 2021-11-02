@@ -1,5 +1,5 @@
 ---
-title: Reflecting on INSPIRE U2
+title: Student Reflections on Data Science Training
 description: |
   A forking fun new feature for series.
 author: Michel Ruiz-Fuentes
